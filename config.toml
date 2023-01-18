@@ -1,0 +1,4 @@
+baseURL = 'https://angelicasantana.com/'
+languageCode = 'en-us'
+title = 'Angelica Santana'
+theme = 'ananke'
