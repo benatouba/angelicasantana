@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Angélica Santana Diseño Creativo</title>
-    <link>/</link>
-    <description>Recent content on Angélica Santana Diseño Creativo</description>
+    <title>poesia on Angélica Santana Diseño Creativo</title>
+    <link>/tags/poesia/</link>
+    <description>Recent content in poesia on Angélica Santana Diseño Creativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/poesia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¡Que tengas un gran día… A menos que tengas otros planes!</title>
       <link>/blog/que_tengas_un_gran_dia/</link>
@@ -29,15 +29,6 @@ Hoy me puedo sentir triste porque no tengo más dinero o puedo estar contento qu
 A esa niña delicada y sensible, que lloró y sufrió. Ella se sintió sola.
 Un abrazo a la mujer en la que me he convertido, terca e imperfecta pero siempre sincera. Fuerte con el corazón siempre demasiado descubierto. A la mujer que está tratando de mejorar y que nunca deja de soñar.
 Por la mujer que soy. Por todo el amor que llevo dentro. Por mis victorias y mis derrotas.</description>
-    </item>
-    
-    <item>
-      <title>Sobre mí</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Nacida y criada en el paraíso de las Galápagos, vivo y respiro las islas y el mar.</description>
     </item>
     
   </channel>

@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/blog/</loc>
+    <loc>/blog/que_tengas_un_gran_dia/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/"
-                />
-  </url><url>
-    <loc>/en/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url><url>
-    <loc>/en/blog/que_tengas_un_gran_dia/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/que_tengas_un_gran_dia/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/blog/que_tengas_un_gran_dia/"
                 />
-  </url><url>
-    <loc>/en/tags/poesia/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/poesia/"
+                href="/blog/que_tengas_un_gran_dia/"
                 />
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/blog/"
+                />
+  </url><url>
+    <loc>/tags/poesia/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/poesia/"
                 />
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="/tags/poesia/"
                 />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
                 />
-  </url><url>
-    <loc>/en/blog/un_abrazo_a_la_nina/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/un_abrazo_a_la_nina/"
+                href="/tags/"
                 />
+  </url><url>
+    <loc>/blog/un_abrazo_a_la_nina/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/blog/un_abrazo_a_la_nina/"
                 />
-  </url><url>
-    <loc>/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/about/"
+                href="/blog/un_abrazo_a_la_nina/"
                 />
+  </url><url>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="/en/categories/"
                 />
-  </url><url>
-    <loc>/en/fotos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/fotos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/fotos/"
-                />
-  </url><url>
-    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="/categories/"
                 />
+  </url><url>
+    <loc>/fotos/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/en/fotos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/fotos/"
+                />
+  </url><url>
+    <loc>/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/about/"
                 />
   </url>
 </urlset>
