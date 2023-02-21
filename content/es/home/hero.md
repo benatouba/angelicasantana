@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait02.jpeg"
+hero_media = "/img/portrait02_tall_mirrored.jpeg"
 
 # Buttons
 # Add as much button as you want
@@ -18,10 +18,6 @@ hero_media = "/img/portrait02.jpeg"
   label = "Ven"
 	# Primary color
 	primary = true
-
-[[btn]]
-  url = "#fotos"
-  label = 'Fotos'
 
 [[btn]]
   url = "#contact"

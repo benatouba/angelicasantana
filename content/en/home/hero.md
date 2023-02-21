@@ -20,10 +20,6 @@ hero_media = "/img/portrait.jpg"
 	primary = true
 
 [[btn]]
-  url = "#fotos"
-  label = 'Fotos'
-
-[[btn]]
   url = "#contact"
   label = 'Contact me'
 
