@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://angelicasantana.com/</loc>
-    <lastmod>2023-01-18T18:27:19+01:00</lastmod>
-  </url><url>
-    <loc>https://angelicasantana.com/posts/construction/</loc>
-    <lastmod>2023-01-18T18:27:19+01:00</lastmod>
-  </url><url>
-    <loc>https://angelicasantana.com/posts/</loc>
-    <lastmod>2023-01-18T18:27:19+01:00</lastmod>
-  </url><url>
-    <loc>https://angelicasantana.com/categories/</loc>
-  </url><url>
-    <loc>https://angelicasantana.com/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>fr/sitemap.xml</loc><lastmod>2020-06-25T00:00:00+00:00</lastmod></sitemap><sitemap><loc>en/sitemap.xml</loc><lastmod>2023-01-18T18:27:19+01:00</lastmod></sitemap></sitemapindex>
