@@ -1,0 +1,49 @@
+sections:
+
+  # ── Hero ────────────────────────────────────────────────────────────────
+  - block: hero
+    id: hero
+    content:
+      title: "Bienvenida a Angélica Santana"
+      text: >
+        Soy una mujer galapagueña soñadora que creció viendo moda, arte, y
+        música. Me encanta escribir y leer poesía. Siempre poniendo metas
+        alcanzables, pensando en el futuro y queriendo aportar a la comunidad.
+      primary_action:
+        text: "Conoce más"
+        url: "/about"
+      secondary_action:
+        text: "Contáctame"
+        url: "#contact"
+    design:
+      background:
+        color:
+          light: "#EFF6FF"
+          dark: "#0C4A6E"
+
+  # ── Recent Posts ────────────────────────────────────────────────────────
+  - block: collection
+    id: posts
+    content:
+      title: "Mis proyectos más recientes"
+      subtitle: "Conozca mis últimos proyectos"
+      count: 5
+    design:
+      view: card
+
+  # ── Contact ─────────────────────────────────────────────────────────────
+  - block: contact-info
+    id: contact
+    content:
+      title: "Contáctame"
+      subtitle: >
+        ¿Buscas una niñera, servicios de modelaje o compras en Galápagos?
+        ¡Hablemos!
+      connect_title: "Conecta conmigo"
+      email: "angysantana551@gmail.com"
+      social:
+        - icon: "brands/instagram"
+          url: "https://instagram.com/angelica_santana_dc"
+        - icon: "brands/instagram"
+          url: "https://instagram.com/chocolatitagalapagos"
+      show_form: false
