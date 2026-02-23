@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Angélica Santana Diseño Creativo</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Angélica Santana Diseño Creativo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | Angélica Santana Diseño Creativo</title>
+    <link>https://angelicasantana.com/categories/</link>
+      <atom:link href="https://angelicasantana.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
+    <image>
+      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Categories</title>
+      <link>https://angelicasantana.com/categories/</link>
+    </image>
+    
   </channel>
 </rss>

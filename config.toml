@@ -1,13 +1,14 @@
 # Use an empty string if you have multiple domain linking to your website
 # This string is used to generate the absolute URL for your assets.
-#baseURL = 'https://example.com/'
+baseURL = 'https://angelicasantana.com/'
 defaultContentLanguage = 'es'
+ignoreLogs = ['sections-none-/', 'sections-none-/en/']
 # Emoji in markdown files
 enableEmoji = true
 languageCode = 'es-ec'
 # Number of blog post per page
 paginate = 10
-theme = 'pico'
+enableRobotsTXT = true
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
 title = 'Angélica Santana Diseño Creativo'
@@ -139,3 +140,33 @@ contentDir = 'content/es'
 languageCode = 'es'
 languageName = 'Español'
 weight = 4
+
+[module]
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
+
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "i18n"
+    target = "i18n"
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/hugo_stats.json"
+    disableWatch = true

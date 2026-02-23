@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Angélica Santana Diseño Creativo</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Angélica Santana Diseño Creativo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>poesia</title>
-      <link>/tags/poesia/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/poesia/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Angélica Santana Diseño Creativo</title>
+    <link>https://angelicasantana.com/tags/</link>
+      <atom:link href="https://angelicasantana.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Tags</title>
+      <link>https://angelicasantana.com/tags/</link>
+    </image>
     
   </channel>
 </rss>

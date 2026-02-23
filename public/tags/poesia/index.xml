@@ -1,34 +1,132 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>poesia on Angélica Santana Diseño Creativo</title>
-    <link>/tags/poesia/</link>
-    <description>Recent content in poesia on Angélica Santana Diseño Creativo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/poesia/index.xml" rel="self" type="application/rss+xml" />
+    <title>Poesia | Angélica Santana Diseño Creativo</title>
+    <link>https://angelicasantana.com/tags/poesia/</link>
+      <atom:link href="https://angelicasantana.com/tags/poesia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poesia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Poesia</title>
+      <link>https://angelicasantana.com/tags/poesia/</link>
+    </image>
+    
     <item>
       <title>¡Que tengas un gran día… A menos que tengas otros planes!</title>
-      <link>/blog/que_tengas_un_gran_dia/</link>
+      <link>https://angelicasantana.com/es/blog/que_tengas_un_gran_dia/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/que_tengas_un_gran_dia/</guid>
-      <description>Esta mañana desperté emocionado con todas las cosas que tengo que hacer antes que el reloj sonara.
-Tengo responsabilidades que cumplir hoy. Soy importante. Mi trabajo es escoger qué clase de día voy a tener.
-Hoy puedo quejarme porque el día esta lluvioso o puedo dar gracias porque las plantas están siendo regadas.
-Hoy me puedo sentir triste porque no tengo más dinero o puedo estar contento que mis finanzas me empujan a planear mis compras con inteligencia.</description>
+      <guid>https://angelicasantana.com/es/blog/que_tengas_un_gran_dia/</guid>
+      <description>&lt;p&gt;Esta mañana desperté emocionado
+con todas las cosas que tengo que hacer
+antes que el reloj sonara.&lt;/p&gt;
+&lt;p&gt;Tengo responsabilidades que cumplir hoy.
+Soy importante.
+Mi trabajo es escoger qué clase de día voy a tener.&lt;/p&gt;
+&lt;p&gt;Hoy puedo quejarme porque el día esta lluvioso
+o puedo dar gracias porque las plantas están siendo regadas.&lt;/p&gt;
+&lt;p&gt;Hoy me puedo sentir triste porque no tengo más dinero
+o puedo estar contento que mis finanzas me empujan
+a planear mis compras con inteligencia.&lt;/p&gt;
+&lt;p&gt;Hoy puedo quejarme de mi salud
+o puedo regocijarme de que estoy vivo.
+Hoy puedo lamentarme de todo
+lo que mis padres no me dieron mientras estaba creciendo
+o puedo sentirme agradecido de que me permitieran haber nacido.&lt;/p&gt;
+&lt;p&gt;Hoy puedo llorar porque las rosas tienen espinas
+o puedo celebrar que las espinas tienen rosas.&lt;/p&gt;
+&lt;p&gt;Hoy puedo autocompadecerme por no tener muchos amigos
+o puedo emocionarme y embarcarme en la aventura de descubrir nuevas relaciones.&lt;/p&gt;
+&lt;p&gt;Hoy puedo quejarme porque tengo que ir a trabajar
+o puedo gritar de alegría porque tengo un trabajo.&lt;/p&gt;
+&lt;p&gt;Hoy puedo quejarme porque tengo que ir a la escuela
+o puedo abrir mi mente enérgicamente
+y llenarla con nuevos y ricos conocimientos.&lt;/p&gt;
+&lt;p&gt;Hoy puedo murmurar amargamente porque tengo que hacer las labores del hogar o puedo sentirme honrado porque tengo un techo para mi mente y cuerpo .&lt;/p&gt;
+&lt;p&gt;Hoy el día se presenta ante mi esperando a que yo le de forma y aquí estoy, soy el escultor.&lt;/p&gt;
+&lt;p&gt;Lo que suceda hoy depende de mí, yo debo escoger qué tipo de día voy a tener.&lt;/p&gt;
+&lt;h2 id=&#34;que-tengas-un-gran-día-a-menos-que-tengas-otros-planes&#34;&gt;Que tengas un gran día… A menos que tengas otros planes.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Have a great day....unless you have other plans.</title>
+      <link>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</guid>
+      <description>&lt;p&gt;This morning I woke up excited
+with all the things I have to do
+before the clock rang.&lt;/p&gt;
+&lt;p&gt;I have responsibilities to fulfill today.
+I am important.
+My job is to choose what kind of day I&amp;rsquo;m going to have.&lt;/p&gt;
+&lt;p&gt;Today I can complain because the day is rainy
+or I can give thanks because the plants are being watered.&lt;/p&gt;
+&lt;p&gt;Today I can feel sad because I don&amp;rsquo;t have any more money
+or I can be happy that my finances push me to plan my purchases wisely.
+to plan my purchases wisely.&lt;/p&gt;
+&lt;p&gt;Today I can complain about my health
+or I can rejoice that I am alive.
+Today I can regret everything
+that my parents didn&amp;rsquo;t give me while I was growing up
+or I can feel grateful that they allowed me to be born.&lt;/p&gt;
+&lt;p&gt;Today I can mourn that roses have thorns
+or I can celebrate that the thorns have roses.&lt;/p&gt;
+&lt;p&gt;Today I can pity myself for not having many friends
+or I can get excited and embark on the adventure of discovering new relationships.&lt;/p&gt;
+&lt;p&gt;Today I can complain because I have to go to work
+or I can shout for joy because I have a job.&lt;/p&gt;
+&lt;p&gt;Today I can complain because I have to go to school
+or I can open my mind energetically
+and fill it with new and rich knowledge.&lt;/p&gt;
+&lt;p&gt;Today I can murmur bitterly because I have to do housework or I can feel honored because I have a roof over my mind and body.&lt;/p&gt;
+&lt;p&gt;Today the day stands before me waiting for me to shape it and here I am, I am the sculptor.&lt;/p&gt;
+&lt;h2 id=&#34;what-happens-today-is-up-to-me-i-must-choose-what-kind-of-day-i-will-have&#34;&gt;What happens today is up to me, I must choose what kind of day I will have.&lt;/h2&gt;
+</description>
     </item>
     
     <item>
       <title>Un abrazo a la niña que fui</title>
-      <link>/blog/un_abrazo_a_la_nina/</link>
+      <link>https://angelicasantana.com/es/blog/un_abrazo_a_la_nina/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/un_abrazo_a_la_nina/</guid>
-      <description>Tímida e insegura.
-A esa niña delicada y sensible, que lloró y sufrió. Ella se sintió sola.
-Un abrazo a la mujer en la que me he convertido, terca e imperfecta pero siempre sincera. Fuerte con el corazón siempre demasiado descubierto. A la mujer que está tratando de mejorar y que nunca deja de soñar.
-Por la mujer que soy. Por todo el amor que llevo dentro. Por mis victorias y mis derrotas.</description>
+      <guid>https://angelicasantana.com/es/blog/un_abrazo_a_la_nina/</guid>
+      <description>&lt;p&gt;Tímida e insegura.&lt;/p&gt;
+&lt;p&gt;A esa niña delicada y sensible,
+que lloró y sufrió.
+Ella se sintió sola.&lt;/p&gt;
+&lt;p&gt;Un abrazo a la mujer en la que me he convertido, terca e imperfecta pero siempre sincera.
+Fuerte con el corazón siempre demasiado descubierto.
+A la mujer que está tratando de mejorar y que nunca deja de soñar.&lt;/p&gt;
+&lt;p&gt;Por la mujer que soy.
+Por todo el amor que llevo dentro.
+Por mis victorias y mis derrotas.
+Por todas las veces que me levanté.
+Por todos los monstruos que enfrenté.&lt;/p&gt;
+&lt;p&gt;Un abrazo a la niña que sigo siendo y que siempre seré.&lt;/p&gt;
+&lt;p&gt;##¡SANA TUS HERIDAS!!🌷&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A hug to the girl I was</title>
+      <link>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</guid>
+      <description>&lt;p&gt;Shy and insecure.
+To that delicate and sensitive girl,
+who cried and suffered.
+She felt alone.
+A hug to the woman I have become, stubborn and imperfect but always sincere.
+Strong with a heart always too bare.
+To the woman who is trying to better herself and never stops dreaming.
+To the woman I am.
+For all the love inside me.
+For my victories and my defeats.
+For all the times I stood up.
+For all the monsters I faced.
+A hug to the little girl I still am and always will be.&lt;/p&gt;
+&lt;h2 id=&#34;heal-your-wounds&#34;&gt;HEAL YOUR WOUNDS!!!🌷&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
