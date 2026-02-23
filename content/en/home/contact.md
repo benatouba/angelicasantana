@@ -55,5 +55,4 @@ required = true
 
 +++
 
-Need a individually designed clothes inspired by the islands?
-Let’s talk about it !
+Looking for a nanny, modeling, or grocery shopping services in the Galapagos Islands? Let’s talk!

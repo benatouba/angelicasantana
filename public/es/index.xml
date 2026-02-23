@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Es | Angélica Santana Diseño Creativo</title>
-    <link>https://angelicasantana.com/es/</link>
-      <atom:link href="https://angelicasantana.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/es/</link>
+      <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <description>Es</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
       <title>Es</title>
-      <link>https://angelicasantana.com/es/</link>
+      <link>http://localhost:1313/es/</link>
     </image>
     
     <item>
       <title>Sobre mí</title>
-      <link>https://angelicasantana.com/es/about/</link>
+      <link>http://localhost:1313/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/es/about/</guid>
+      <guid>http://localhost:1313/es/about/</guid>
       <description>&lt;p&gt;Nacida y criada en el paraíso de las Galápagos, vivo y respiro las islas y el mar.&lt;/p&gt;
 </description>
     </item>

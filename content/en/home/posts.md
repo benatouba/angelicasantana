@@ -19,7 +19,7 @@ subtitle = "Read about my latest projects"
 	count = 5
 
 	[content.filters]
-		tag = "recipe"
+		tag = ""
 		category = ""
 		publication_type = ""
 		exclude_featured = false

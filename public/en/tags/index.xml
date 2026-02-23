@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Angélica Santana Diseño Creativo</title>
-    <link>https://angelicasantana.com/en/tags/</link>
-      <atom:link href="https://angelicasantana.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/</link>
+      <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
       <title>Tags</title>
-      <link>https://angelicasantana.com/en/tags/</link>
+      <link>http://localhost:1313/en/tags/</link>
     </image>
     
   </channel>

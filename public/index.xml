@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angélica Santana Diseño Creativo</title>
-    <link>https://angelicasantana.com/</link>
-      <atom:link href="https://angelicasantana.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Angélica Santana Diseño Creativo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
       <title>Angélica Santana Diseño Creativo</title>
-      <link>https://angelicasantana.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>¡Que tengas un gran día… A menos que tengas otros planes!</title>
-      <link>https://angelicasantana.com/es/blog/que_tengas_un_gran_dia/</link>
+      <link>http://localhost:1313/es/blog/que_tengas_un_gran_dia/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/es/blog/que_tengas_un_gran_dia/</guid>
+      <guid>http://localhost:1313/es/blog/que_tengas_un_gran_dia/</guid>
       <description>&lt;p&gt;Esta mañana desperté emocionado
 con todas las cosas que tengo que hacer
 antes que el reloj sonara.&lt;/p&gt;
@@ -51,9 +51,9 @@ y llenarla con nuevos y ricos conocimientos.&lt;/p&gt;
     
     <item>
       <title>Have a great day....unless you have other plans.</title>
-      <link>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</link>
+      <link>http://localhost:1313/en/blog/que_tengas_un_gran_dia/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</guid>
+      <guid>http://localhost:1313/en/blog/que_tengas_un_gran_dia/</guid>
       <description>&lt;p&gt;This morning I woke up excited
 with all the things I have to do
 before the clock rang.&lt;/p&gt;
@@ -87,9 +87,9 @@ and fill it with new and rich knowledge.&lt;/p&gt;
     
     <item>
       <title>Un abrazo a la niña que fui</title>
-      <link>https://angelicasantana.com/es/blog/un_abrazo_a_la_nina/</link>
+      <link>http://localhost:1313/es/blog/un_abrazo_a_la_nina/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/es/blog/un_abrazo_a_la_nina/</guid>
+      <guid>http://localhost:1313/es/blog/un_abrazo_a_la_nina/</guid>
       <description>&lt;p&gt;Tímida e insegura.&lt;/p&gt;
 &lt;p&gt;A esa niña delicada y sensible,
 que lloró y sufrió.
@@ -109,9 +109,9 @@ Por todos los monstruos que enfrenté.&lt;/p&gt;
     
     <item>
       <title>A hug to the girl I was</title>
-      <link>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</link>
+      <link>http://localhost:1313/en/blog/un_abrazo_a_la_nina/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</guid>
+      <guid>http://localhost:1313/en/blog/un_abrazo_a_la_nina/</guid>
       <description>&lt;p&gt;Shy and insecure.
 To that delicate and sensitive girl,
 who cried and suffered.
@@ -131,18 +131,18 @@ A hug to the little girl I still am and always will be.&lt;/p&gt;
     
     <item>
       <title>About me</title>
-      <link>https://angelicasantana.com/en/about/</link>
+      <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/en/about/</guid>
+      <guid>http://localhost:1313/en/about/</guid>
       <description>&lt;p&gt;Born and raised in the paradise that is Galápagos, I live and breathe the islands and the sea.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sobre mí</title>
-      <link>https://angelicasantana.com/es/about/</link>
+      <link>http://localhost:1313/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/es/about/</guid>
+      <guid>http://localhost:1313/es/about/</guid>
       <description>&lt;p&gt;Nacida y criada en el paraíso de las Galápagos, vivo y respiro las islas y el mar.&lt;/p&gt;
 </description>
     </item>

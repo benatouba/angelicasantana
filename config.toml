@@ -68,11 +68,11 @@ name = "Instagram"
 url = "https://instagram.com/angelica_santana_dc"
 
 [[params.social]]
-alt = "facebook icon"
+alt = "Instagram icon"
 blank = true
-icon = "/icons/facebook.svg"
-name = "facebook"
-url = "https://facebook.com/"
+icon = "/icons/instagram.png"
+name = "Instagram"
+url = "https://instagram.com/chocolatitagalapagos"
 
 # Navigation bar
 [menu]
@@ -92,7 +92,7 @@ weight = 20
 [[menu.main]]
 identifier = "gallery" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/gallery/"
+url = "/fotos/"
 weight = 20
 
 [[menu.main]]

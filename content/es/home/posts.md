@@ -8,7 +8,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
 
-title = "Mis proyectos más recientest"
+title = "Mis proyectos más recientes"
 subtitle = "Conozca mis últimos proyectos"
 
 [content]
@@ -19,7 +19,7 @@ subtitle = "Conozca mis últimos proyectos"
   count = 5
 
 	[content.filters]
-    tag = "recipe"
+    tag = ""
     category = ""
     publication_type = ""
     exclude_featured = false

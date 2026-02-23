@@ -4,32 +4,32 @@
   
   
   <url>
-    <loc>https://angelicasantana.com/en/</loc><xhtml:link
+    <loc>http://localhost:1313/en/</loc><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://angelicasantana.com/"
+      href="http://localhost:1313/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://angelicasantana.com/en/"
+      href="http://localhost:1313/en/"
     /></url>
   <url>
-    <loc>https://angelicasantana.com/en/categories/</loc><xhtml:link
+    <loc>http://localhost:1313/en/categories/</loc><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://angelicasantana.com/categories/"
+      href="http://localhost:1313/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://angelicasantana.com/en/categories/"
+      href="http://localhost:1313/en/categories/"
     /></url>
   <url>
-    <loc>https://angelicasantana.com/en/tags/</loc><xhtml:link
+    <loc>http://localhost:1313/en/tags/</loc><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://angelicasantana.com/tags/"
+      href="http://localhost:1313/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://angelicasantana.com/en/tags/"
+      href="http://localhost:1313/en/tags/"
     /></url></urlset>

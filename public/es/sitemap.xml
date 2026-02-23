@@ -4,58 +4,58 @@
   
   
   <url>
-    <loc>https://angelicasantana.com/es/blog/que_tengas_un_gran_dia/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/es/blog/que_tengas_un_gran_dia/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/en/blog/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/en/blog/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod><xhtml:link
+    <loc>http://localhost:1313/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://angelicasantana.com/en/"
+      href="http://localhost:1313/en/"
     /><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://angelicasantana.com/"
+      href="http://localhost:1313/"
     /></url>
   <url>
-    <loc>https://angelicasantana.com/en/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/en/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/es/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/es/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/en/blog/que_tengas_un_gran_dia/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/es/blog/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/es/blog/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/tags/poesia/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/tags/poesia/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/tags/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod><xhtml:link
+    <loc>http://localhost:1313/tags/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://angelicasantana.com/en/tags/"
+      href="http://localhost:1313/en/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://angelicasantana.com/tags/"
+      href="http://localhost:1313/tags/"
     /></url>
   <url>
-    <loc>https://angelicasantana.com/es/blog/un_abrazo_a_la_nina/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/es/blog/un_abrazo_a_la_nina/</loc><lastmod>2023-02-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</loc><lastmod>2023-02-20T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/en/blog/un_abrazo_a_la_nina/</loc><lastmod>2023-02-20T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://angelicasantana.com/en/about/</loc></url>
+    <loc>http://localhost:1313/en/about/</loc></url>
   <url>
-    <loc>https://angelicasantana.com/en/fotos/</loc></url>
+    <loc>http://localhost:1313/es/fotos/</loc></url>
   <url>
-    <loc>https://angelicasantana.com/categories/</loc><xhtml:link
+    <loc>http://localhost:1313/categories/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://angelicasantana.com/en/categories/"
+      href="http://localhost:1313/en/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://angelicasantana.com/categories/"
+      href="http://localhost:1313/categories/"
     /></url>
   <url>
-    <loc>https://angelicasantana.com/es/fotos/</loc></url>
+    <loc>http://localhost:1313/en/fotos/</loc></url>
   <url>
-    <loc>https://angelicasantana.com/es/about/</loc></url></urlset>
+    <loc>http://localhost:1313/es/about/</loc></url></urlset>

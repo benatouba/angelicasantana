@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ama Sueña Recicla | Angélica Santana Diseño Creativo</title>
-    <link>https://angelicasantana.com/en/blog/</link>
-      <atom:link href="https://angelicasantana.com/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/blog/</link>
+      <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Ama Sueña Recicla</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
       <title>Ama Sueña Recicla</title>
-      <link>https://angelicasantana.com/en/blog/</link>
+      <link>http://localhost:1313/en/blog/</link>
     </image>
     
     <item>
       <title>Have a great day....unless you have other plans.</title>
-      <link>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</link>
+      <link>http://localhost:1313/en/blog/que_tengas_un_gran_dia/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/en/blog/que_tengas_un_gran_dia/</guid>
+      <guid>http://localhost:1313/en/blog/que_tengas_un_gran_dia/</guid>
       <description>&lt;p&gt;This morning I woke up excited
 with all the things I have to do
 before the clock rang.&lt;/p&gt;
@@ -50,9 +50,9 @@ and fill it with new and rich knowledge.&lt;/p&gt;
     
     <item>
       <title>A hug to the girl I was</title>
-      <link>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</link>
+      <link>http://localhost:1313/en/blog/un_abrazo_a_la_nina/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelicasantana.com/en/blog/un_abrazo_a_la_nina/</guid>
+      <guid>http://localhost:1313/en/blog/un_abrazo_a_la_nina/</guid>
       <description>&lt;p&gt;Shy and insecure.
 To that delicate and sensitive girl,
 who cried and suffered.

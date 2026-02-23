@@ -1,6 +1,6 @@
 +++
 widget = "contact_form"
-title = "Me Contacter" 
+title = "Contáctame"
 
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
@@ -23,7 +23,7 @@ useEmail = true
 
 # Form inputs
 [[inputs]]
-label = "Votre nom"
+label = "Tu nombre"
 # Input type
 type = "text"
 # minimum input length
@@ -31,13 +31,13 @@ minlength = "3"
 # maxlength = "25"
 name = "name"
 # pattern matching
-pattern = "[a-zA-Z]"
-placeholder = "Nom"
+pattern = "[a-zA-Z]+"
+placeholder = "Nombre"
 # The input is required to submit the form
 # required = true
 
 [[inputs]]
-label = "Votre email"
+label = "Tu correo electrónico"
 type = "email"
 name = "email"
 # pattern = ""
@@ -46,14 +46,13 @@ required = true
 
 # Textarea works same as input but doesn't support pattern matching
 [[inputs]]
-label = "Votre message (minimum 10 lettres)"
+label = "Tu mensaje (mínimo 10 caracteres)"
 type = "textarea"
 minlength = "10"
 name = "message"
-placeholder = "Votre message..."
+placeholder = "Tu mensaje..."
 required = true
 
 +++
 
-Besoin d'aide pour ouvrir un fast-food ?  
-Parlons-en !
+¿Buscas una niñera, servicios de modelaje o compras en Galápagos? ¡Hablemos!

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ama Sueña Recicla | Angélica Santana Diseño Creativo</title>
-    <link>https://angelicasantana.com/en/fotos/</link>
-      <atom:link href="https://angelicasantana.com/en/fotos/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ama Sueña Recicla</description>
+    <title>Love Dream Repeat | Angélica Santana Diseño Creativo</title>
+    <link>http://localhost:1313/en/fotos/</link>
+      <atom:link href="http://localhost:1313/en/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Love Dream Repeat</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
     <image>
-      <url>https://angelicasantana.com/media/icon_hu_8b792fc0bcdf6699.png</url>
-      <title>Ama Sueña Recicla</title>
-      <link>https://angelicasantana.com/en/fotos/</link>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Love Dream Repeat</title>
+      <link>http://localhost:1313/en/fotos/</link>
     </image>
     
   </channel>
