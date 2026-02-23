@@ -1,0 +1,62 @@
+/* ==============================================
+   GALAPAGOS DESIGN SYSTEM
+   Loaded after Hugo Blox Tailwind CSS
+   ============================================== */
+
+/* 1. Font family — DM Sans for body copy */
+:root {
+  --font-family-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* 2. Page background — Warm Sand */
+html, body {
+  background-color: #F5F0E8;
+}
+
+/* 3. Typography — Cormorant Garamond for all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+}
+
+/* 4. Poetry / accent utility — Italiana */
+.font-italiana {
+  font-family: "Italiana", Georgia, serif;
+}
+
+/* 5. Navbar — Ocean Deep background, white text */
+#site-header .navbar {
+  background-color: #0C4A6E;
+}
+#site-header .navbar .nav-link {
+  color: rgba(255, 255, 255, 0.9);
+}
+#site-header .navbar .nav-link:hover,
+#site-header .navbar .nav-link[aria-current="page"] {
+  color: #06B6D4; /* Lagoon Turquoise on hover/active */
+}
+#site-header .navbar .navbar-brand {
+  color: white;
+}
+/* Mobile menu toggle icon */
+#site-header .navbar label svg {
+  color: white;
+}
+
+/* 6. Wave divider utility class */
+.wave-bottom {
+  position: relative;
+  overflow: visible;
+}
+.wave-bottom::after {
+  content: '';
+  position: absolute;
+  bottom: -59px;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-image: url('/img/wave-bottom.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  z-index: 1;
+}

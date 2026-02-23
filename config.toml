@@ -2,7 +2,12 @@
 # This string is used to generate the absolute URL for your assets.
 baseURL = 'https://angelicasantana.com/'
 defaultContentLanguage = 'es'
-ignoreLogs = ['sections-none-/', 'sections-none-/en/']
+ignoreLogs = [
+  'sections-none-/',
+  'sections-none-/en/',
+  'sections-none-/es/',
+  'deprecated:module.mounts.includefiles',
+]
 # Emoji in markdown files
 enableEmoji = true
 languageCode = 'es-ec'
@@ -73,6 +78,10 @@ blank = true
 icon = "/icons/instagram.png"
 name = "Instagram"
 url = "https://instagram.com/chocolatitagalapagos"
+
+[params.appearance]
+color = "galapagos"
+darkMode = "off"
 
 # Navigation bar
 [menu]
